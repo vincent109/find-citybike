@@ -1,2 +1,0 @@
-#This is a test file named by current date
-The project find-citybike is a unoffical way to find citybike for your
